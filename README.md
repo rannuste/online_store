@@ -1,5 +1,6 @@
 create working directory and move there:
 `mkdir testapp`
+
 `cd testapp`
 
 in this directory create a virtual environment by:
